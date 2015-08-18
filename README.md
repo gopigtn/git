@@ -1,6 +1,6 @@
 # git
 git is a repository for
-,mfv
+gopi
 dsfsdf
 sdf
 dsf
